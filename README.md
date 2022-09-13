@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @lucaschrng
+- :school: I'm a student at IIM
 - 💙 I’m interested in music, cinema and rock climbing
 - 🌱 I’m currently learning javascript
 - 📫 You can reach me with charoing.lucas@gmail.com
